@@ -1,1 +1,14 @@
-# mohit
+#task 1
+print("hello world")
+a=input('enter a value: ')
+b=input('enter a value: ')
+a=float(a)
+b=float(b)
+c=(a + b)
+d=(a - b)
+e=(a * b)
+f=(a / b)
+print('addition: ',c)
+print('subtraction: ',d)
+print('multiplication; ',e)
+print('division: ',f)
